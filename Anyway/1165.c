@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+int main()
 {
     int q, i;
     int num, j, contDiv;
@@ -28,4 +28,5 @@ void main()
             printf("%d nao eh primo\n", num);
         }
     }
+    return 0;
 }
