@@ -22,5 +22,4 @@ for i in range(n):
                 cont=0
         elif(pa[k] == " "):
             cont=0
-        
     print(nova)
