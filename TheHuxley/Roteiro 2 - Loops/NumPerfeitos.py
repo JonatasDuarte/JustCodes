@@ -1,5 +1,4 @@
 num = int(input())
-nump = []
 
 for i in range(6, num):
     soma = 0
