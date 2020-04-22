@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include<string.h>
+#include<math.h>
+
 int main()
 {
     int i, n, k, ind, len1;
