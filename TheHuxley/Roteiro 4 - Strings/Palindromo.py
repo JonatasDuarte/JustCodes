@@ -1,5 +1,6 @@
 n = int(input())
 novo = ""
+
 for i in range(n):
     frase = str(input())
     frase = frase.replace(" ","")
