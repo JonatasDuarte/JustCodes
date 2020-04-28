@@ -33,7 +33,6 @@ int main()
             }
         }
     }
-
     printf("%d\n", ero);
     return 0;
 }
