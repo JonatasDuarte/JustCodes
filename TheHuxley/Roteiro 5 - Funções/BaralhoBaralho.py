@@ -35,4 +35,3 @@ elif(pa > wi):
     print(int(1))
 else:
     print(int(0))
-
