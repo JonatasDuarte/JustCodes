@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+ //Não terminada W.A 30%
 int main(){
     int n, i, j, ind, dias;
     dias=0;
@@ -24,7 +25,7 @@ int main(){
                 if(i==0){
                     fita[j] = 0;
                     fita[j+1] = 0;
-                    parada -+ 2;
+                    parada -= 2;
                 } else if(i = tam-1){
                     fita[j] = 0;
                     fita[j-1] = 0;
