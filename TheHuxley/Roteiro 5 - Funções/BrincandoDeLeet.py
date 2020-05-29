@@ -35,7 +35,7 @@ else:
             qnt += 1
         else:
             nova += pa[i]
+
     if(cont != 1):
         print(nova[::-1])
         print(qnt)
-    
