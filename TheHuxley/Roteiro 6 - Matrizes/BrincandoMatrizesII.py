@@ -18,9 +18,7 @@ for i in range(3):
         linha.append(val)
     matrix.append(linha)
     
-if(menor%2 == 0):
-    delta = 1
-else:
-    delta = 0
+if(menor%2 == 0): delta = 1
+else: delta = 0
 
 print("%.2f"%(soma/pos)+" "+str(menor)+" "+str(delta)+" "+str(somadia))
